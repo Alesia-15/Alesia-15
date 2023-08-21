@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://i.gifer.com/2GU.gif" width="200"/>
+
 ### Connect with me:
 - <a href="https://t.me/AlesiaShel" target="blank">Telegram</a>
 - <a href="mailto:alice15sh@gmail.com" target="blank">E-mail</a>
