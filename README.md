@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="start">
 <img src="https://i.gifer.com/2GU.gif" width="200"/>
-</div>div>
 
 ### Connect with me:
 - <a href="https://t.me/AlesiaShel" target="blank">Telegram</a>
