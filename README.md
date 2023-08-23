@@ -2,9 +2,9 @@
 
 <h3>I'm Alesia. I'm Frontend Developer.</h3>
 
-<img src="https://i.pinimg.com/originals/90/00/99/900099de57e0635392bf969f6dbdfc96.gif" alt="Coder GIF" heigth="300">
+<img src="https://i.pinimg.com/originals/90/00/99/900099de57e0635392bf969f6dbdfc96.gif" alt="Coder GIF" heigth="150" width="150" />
 
-### 👨🏻‍💻 About Me:
+### About Me:
 - 🔭 I’m currently working on JavaScript, HTML, CSS
 - 🌱 I’m currently learning React
 - 🚀 Always ready to collaborate for Dev Experiments
